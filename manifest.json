@@ -1,0 +1,11 @@
+{
+    "display_name": "Costumes",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.mjs",
+    "css": "",
+    "author": "Somebody",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Cjw9000-py/SillyTavern-Costumes"
+}
