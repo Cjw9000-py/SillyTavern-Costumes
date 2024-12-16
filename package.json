@@ -1,0 +1,14 @@
+{
+  "name": "costumes",
+  "version": "1.0.0",
+  "description": "A module to retrieve a list of costume and sprite folders for a web application.",
+  "main": "index.mjs",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mime-types": "^2.1.35",
+    "sanitize-filename": "^1.6.3"
+  },
+  "type": "module",
+  "author": "",
+  "license": "MIT"
+}
